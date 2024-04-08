@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/abstractClasses/abstractClasses.iml" filepath="$PROJECT_DIR$/abstractClasses/abstractClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstractDemo/abstractDemo.iml" filepath="$PROJECT_DIR$/abstractDemo/abstractDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arraylistDemo/arraylistDemo.iml" filepath="$PROJECT_DIR$/arraylistDemo/arraylistDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arraylistTypedDemo/arraylistTypedDemo.iml" filepath="$PROJECT_DIR$/arraylistTypedDemo/arraylistTypedDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arraylistWithClasses/arraylistWithClasses.iml" filepath="$PROJECT_DIR$/arraylistWithClasses/arraylistWithClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arraysDemo/arraysDemo.iml" filepath="$PROJECT_DIR$/arraysDemo/arraysDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classes/classes.iml" filepath="$PROJECT_DIR$/classes/classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classesWithAttributes/classesWithAttributes.iml" filepath="$PROJECT_DIR$/classesWithAttributes/classesWithAttributes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conditionals/conditionals.iml" filepath="$PROJECT_DIR$/conditionals/conditionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datatypes/datatypes.iml" filepath="$PROJECT_DIR$/datatypes/datatypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exceptionHandling/exceptionHandling.iml" filepath="$PROJECT_DIR$/exceptionHandling/exceptionHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstDemo/firstDemo.iml" filepath="$PROJECT_DIR$/firstDemo/firstDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstSwingDemo/firstSwingDemo.iml" filepath="$PROJECT_DIR$/firstSwingDemo/firstSwingDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashMapDemo/hashMapDemo.iml" filepath="$PROJECT_DIR$/hashMapDemo/hashMapDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/inheritance/inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritanceDemo/inheritanceDemo.iml" filepath="$PROJECT_DIR$/inheritanceDemo/inheritanceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaceDemo/interfaceDemo.iml" filepath="$PROJECT_DIR$/interfaceDemo/interfaceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/interfaces/interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jListDemo/jListDemo.iml" filepath="$PROJECT_DIR$/jListDemo/jListDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java kursu.iml" filepath="$PROJECT_DIR$/.idea/java kursu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademos/javademos.iml" filepath="$PROJECT_DIR$/javademos/javademos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbcIntro/jdbcIntro.iml" filepath="$PROJECT_DIR$/jdbcIntro/jdbcIntro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loopDemo/loopDemo.iml" filepath="$PROJECT_DIR$/loopDemo/loopDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methodOverloading/methodOverloading.iml" filepath="$PROJECT_DIR$/methodOverloading/methodOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methods/methods.iml" filepath="$PROJECT_DIR$/methods/methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methods2/methods2.iml" filepath="$PROJECT_DIR$/methods2/methods2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miniProjectFindNumbers/miniProjectFindNumbers.iml" filepath="$PROJECT_DIR$/miniProjectFindNumbers/miniProjectFindNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miniProjectFriendNumbers/miniProjectFriendNumbers.iml" filepath="$PROJECT_DIR$/miniProjectFriendNumbers/miniProjectFriendNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miniProjectPerfectNumber/miniProjectPerfectNumber.iml" filepath="$PROJECT_DIR$/miniProjectPerfectNumber/miniProjectPerfectNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miniProjectPrimeNumber/miniProjectPrimeNumber.iml" filepath="$PROJECT_DIR$/miniProjectPrimeNumber/miniProjectPrimeNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miniProjectThickAndThinVowels/miniProjectThickAndThinVowels.iml" filepath="$PROJECT_DIR$/miniProjectThickAndThinVowels/miniProjectThickAndThinVowels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multiDimensionalArrayDemo/multiDimensionalArrayDemo.iml" filepath="$PROJECT_DIR$/multiDimensionalArrayDemo/multiDimensionalArrayDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/overriding/overriding.iml" filepath="$PROJECT_DIR$/overriding/overriding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packagesDemo/packagesDemo.iml" filepath="$PROJECT_DIR$/packagesDemo/packagesDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/polymorphismDemo/polymorphismDemo.iml" filepath="$PROJECT_DIR$/polymorphismDemo/polymorphismDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/readingFileDemo/readingFileDemo.iml" filepath="$PROJECT_DIR$/readingFileDemo/readingFileDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recapDemo1/recapDemo1.iml" filepath="$PROJECT_DIR$/recapDemo1/recapDemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recapDemo2/recapDemo2.iml" filepath="$PROJECT_DIR$/recapDemo2/recapDemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recapDemoClasses/recapDemoClasses.iml" filepath="$PROJECT_DIR$/recapDemoClasses/recapDemoClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/repositoryDemo/repositoryDemo.iml" filepath="$PROJECT_DIR$/repositoryDemo/repositoryDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/staticDemo/staticDemo.iml" filepath="$PROJECT_DIR$/staticDemo/staticDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stringsDemo/stringsDemo.iml" filepath="$PROJECT_DIR$/stringsDemo/stringsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/switchDemo/switchDemo.iml" filepath="$PROJECT_DIR$/switchDemo/switchDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threadingDemo/threadingDemo.iml" filepath="$PROJECT_DIR$/threadingDemo/threadingDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/throwDemo/throwDemo.iml" filepath="$PROJECT_DIR$/throwDemo/throwDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/turkeyCitiesDemo/turkeyCitiesDemo.iml" filepath="$PROJECT_DIR$/turkeyCitiesDemo/turkeyCitiesDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/variables/variables.iml" filepath="$PROJECT_DIR$/variables/variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workingWithFiles/workingWithFiles.iml" filepath="$PROJECT_DIR$/workingWithFiles/workingWithFiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/worldCities/worldCities.iml" filepath="$PROJECT_DIR$/worldCities/worldCities.iml" />
+    </modules>
+  </component>
+</project>
